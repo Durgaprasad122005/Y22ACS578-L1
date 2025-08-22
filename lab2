@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this line is added in main branch
+=======
+this for three way merge
+
+>>>>>>> feature-branch
